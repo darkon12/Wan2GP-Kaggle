@@ -1,5 +1,4 @@
 # Wan2GP-Kaggle
-A Kaggle notebook for Wan2.1 video generation.
 
 This is a Kaggle notebook of Wan2.1 video generation model https://github.com/Wan-Video/Wan2.1
 
